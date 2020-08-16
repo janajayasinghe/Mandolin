@@ -11,7 +11,7 @@ There are only five things that you want to think of.
 WebFrame frame = new WebFrame(this, dbConnection, httpSession);
 String htmlPage = MandolinServlet.play(req,frame);
 ```
-3.	Comment out irrelevant swing method calls to this framework. 
+3.	Comment out irrelevant swing method calls. 
 4.	Copy html/script/mandolin.js to Contextpath/web/script/mandolin.js
 5.	Copy html/css/mandolin.css to Contextpath/web/css/mandolin.css
 
